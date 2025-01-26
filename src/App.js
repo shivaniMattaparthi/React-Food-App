@@ -1,9 +1,12 @@
 import React from 'react'
+import Navbar from './components/Navbar'
+import Home from './components/Home'
 
 function App() {
   return (
-    <div className="text-red-300 font-semibold text-6xl">
-      <p>Hi hello world I,m shivani t</p>
+    <div>
+      <Navbar />
+      <Home/>
     </div>
   )
 }
