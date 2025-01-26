@@ -15,7 +15,7 @@ const Navbar = () => {
         {/* Logo Section */}
         <div>
           <p className="text-3xl font-semibold">
-            FOOD<span className="text-primary">EAT</span>
+            FOODIE<span className="text-primary">HUB</span>
           </p>
         </div>
 

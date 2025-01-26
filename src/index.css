@@ -5,7 +5,7 @@
 /* Custom styles */
 @layer components {
   .primary-btn {
-    @apply  text-white font-bold px-4 py-2 rounded-full;
+    @apply bg-orange-600 text-white font-bold px-4 py-2 rounded-full;
   }
   .secondary-btn {
     @apply bg-gray-300 text-white font-bold px-4 py-2 rounded-full;
